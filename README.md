@@ -1,33 +1,31 @@
-# 👋 Hello, I'm LocalHost.07!
+<h1 align="center">Hi 👋, I'm Zooxinirll</h1>
+<h3 align="center">Cybersecurity Researcher | Web Developer | Python Programmer | Intermediate Bug Hunter</h3>
 
-🔒 **Cybersecurity Enthusiast** | 🛠️ **Tool Developer** | 🔍 **Interested In Bounty Hunting**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cybersecurity+Researcher;Web+Developer;Python+Programmer" alt="Typing SVG" />
+</p>
 
-Passionate about cybersecurity, AI, and web development. I enjoy diving into complex problems and crafting solutions in Python, JavaScript, and more.
+- 🔭 I’m currently working on **BuCaG**
+- 💻 My first project: [HaSh-ED](https://github.com/zooxinirll/HaSh-ED)
+- 💻 My second project: [S0rXD0](https://github.com/zooxinirll/S0rXD0)
 
-<img src="https://your-awesome-banner-link.gif" alt="Banner Image">
+### Connect with me:
 
----
+<p align="left">
+  <a href="https://github.com/zooxinirll" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/your_instagram_handle" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-## 🌐 Connect with me:
-[![GitHub followers](https://img.shields.io/github/followers/LocalHost07?label=Follow&style=social)](https://github.com/LocalHost07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+### 🛠️ Tech Stack:
+- Cybersecurity: Penetration Testing, Vulnerability Assessment
+- Programming Languages: Python, JavaScript
+- Web Development: HTML, CSS, JavaScript, Flask
+- Tools: Burp Suite, Wireshark, Nmap
 
----
-
-## 📊 GitHub Stats:
-![LocalHost.07's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LocalHost07&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LocalHost07&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LocalHost07&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🚀 Featured Projects
-
-- [Project 1](https://github.com/LocalHost07/project1) - A brief description of your project.
-- [Project 2](https://github.com/LocalHost07/project2) - A brief description of your project.
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LocalHost07.LocalHost07)
-
-🚀 **Let's build something amazing!** 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zooxinirll&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
