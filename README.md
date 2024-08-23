@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100"/>
   <h1>Welcome, I'm Zooxinirll</h1>
-  <p>Cybersecurity Researcher | Web Developer | Python Programmer | Bug Hunter</p>
+  <p>Cybersecurity Researcher | Web Developer | Python Programmer | Bug Hunter | Junior Software Developer</p>
 </div>
 
 ---
 
 ### 💡 About Me
 
-- 🌱 On a journey to becoming an intermediate bug hunter.
+- 🌱 On a journey to becoming an intermediate bug hunter and honing my skills as a junior software developer.
 - 💻 Currently working on **BuCaG**.
 - 🎯 I believe in continuous learning and growth.
 - 🛠️ Love working with cutting-edge cybersecurity tools and technologies.
