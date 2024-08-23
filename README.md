@@ -50,9 +50,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/-Wireshark-333333?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-333333?style=for-the-badge&logo=burp-suite" />
   <img src="https://img.shields.io/badge/-Nmap-333333?style=for-the-badge&logo=nmap" />
 </div>
 
