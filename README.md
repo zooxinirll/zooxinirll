@@ -17,9 +17,9 @@
 
 ### 🚀 Projects
 
-- **[HaSh-ED](https://github.com/zooxinirll/HaSh-ED)** - A hashing-based project to secure your data.
-- **[S0rXD0](https://github.com/zooxinirll/S0rXD0)** - A project that focuses on secure file sharing and encryption.
-
+- **[HaSh-ED](https://github.com/zooxinirll/HaSh-ED)** - HaSh ED is a simple command-line tool for encrypting and decrypting (cracking) password hashes. It supports four popular hash types: MD5, SHA1, SHA256, and SHA512. With HaSh ED, you can easily encrypt your passwords and store them securely, or decrypt (crack) hashes to recover lost or forgotten passwords.
+- 
+- **[S0rXD0](https://github.com/zooxinirll/S0rXD0)** - S0rXD0 is a Python-based tool designed for downloading and saving entire websites. It recursively follows links within the same domain, saving each page's content locally in an organized directory structure.
 ---
 
 ### 📊 GitHub Stats
