@@ -20,6 +20,7 @@
 - **[HaSh-ED](https://github.com/zooxinirll/HaSh-ED)** - HaSh ED is a simple command-line tool for encrypting and decrypting (cracking) password hashes. It supports four popular hash types: MD5, SHA1, SHA256, and SHA512. With HaSh ED, you can easily encrypt your passwords and store them securely, or decrypt (crack) hashes to recover lost or forgotten passwords.
 ---
 - **[Anime-Showcase](https://zooxinirll.github.io/Index.html/)** - Anime Showcase is dedicated to exploring the vibrant and diverse world of anime. Our goal is to bring you detailed information about popular anime series, including their characters, plotlines, and creators. Whether you're a long-time fan or new to anime, you'll find something to spark your interest here.
+---
 - **[S0rXD0](https://github.com/zooxinirll/S0rXD0)** - S0rXD0 is a Python-based tool designed for downloading and saving entire websites. It recursively follows links within the same domain, saving each page's content locally in an organized directory structure.
 ---
 
