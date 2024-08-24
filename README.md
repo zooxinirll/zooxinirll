@@ -6,6 +6,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
+
 ### 💡 About Me
 
 - 🌱 On a journey to becoming an intermediate bug hunter and honing my skills as a junior software developer.
