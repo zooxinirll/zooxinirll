@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 🌱 On a journey to becoming an bug hunter and honing my skills as a junior software developer.
-- 💻 Currently working on **BuCaG**.
+- 💻 Currently working on project **BuCaG**.
 - 🎯 I believe in continuous learning and growth.
 - 🛠️ Love working with cutting-edge cybersecurity tools and technologies.
 
