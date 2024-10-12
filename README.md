@@ -32,6 +32,10 @@
 
 ---
 
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
+
 ### 🌐 Connect With Me
 
 <p align="center">
