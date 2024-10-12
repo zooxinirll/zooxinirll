@@ -5,27 +5,12 @@
 </div>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
-
-![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
-  ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
-  
-</div>
-
 <span>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
   ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
 
 </span>
-
-
-
 
 ### 💡 About Me
 
