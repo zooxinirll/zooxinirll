@@ -40,6 +40,18 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zooxinirll&layout=compact&theme=radical)
 
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=zooxinirll&theme=radical)
+
+## Followers
+
+![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
+
+## Public Repos
+
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Count-blue)
+
 
 ### 🌐 Connect With Me
 
