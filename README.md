@@ -6,6 +6,14 @@
 
 ---
 
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zooxinirll&layout=compact&theme=radical)
+
 ### 💡 About Me
 
 - 🌱 On a journey to becoming an bug hunter and honing my skills as a junior software developer.
@@ -31,10 +39,6 @@
 </div>
 
 ---
-
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
 
 ### 🌐 Connect With Me
 
