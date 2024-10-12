@@ -16,6 +16,17 @@
   ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
   
 </div>
+
+<span>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
+  ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
+
+</span>
+
+
+
+
 ### 💡 About Me
 
 - 🌱 On a journey to becoming an bug hunter and honing my skills as a junior software developer.
