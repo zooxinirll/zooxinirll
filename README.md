@@ -6,11 +6,7 @@
 
 ---
 
-## Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
-
-## Followers
 
 ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
 
