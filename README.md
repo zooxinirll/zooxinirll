@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zooxinirll&theme=dark&hide_border=true" alt="Zooxinirll's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=zooxinirll&theme=radical&hide_border=true" alt="Zooxinirll's GitHub Stats" />
 </div>
 
 ---
@@ -35,10 +35,6 @@
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zooxinirll&theme=radical&hide_border=true)
 
 ### 🌐 Connect With Me
 
