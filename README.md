@@ -36,6 +36,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
 
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zooxinirll&theme=radical&hide_border=true)
+
 ### 🌐 Connect With Me
 
 <p align="center">
