@@ -46,10 +46,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zooxinirll&theme=radical)
 
-## Public Repos
-
-![Public Repos](https://img.shields.io/badge/Public%20Repos-Count-blue)
-
 
 ### 🌐 Connect With Me
 
