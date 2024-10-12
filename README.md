@@ -10,6 +10,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zooxinirll&color=blueviolet)
 
+## Followers
+
+![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
+
+
 ### 💡 About Me
 
 - 🌱 On a journey to becoming an bug hunter and honing my skills as a junior software developer.
@@ -43,10 +48,6 @@
 ## GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zooxinirll&theme=radical)
-
-## Followers
-
-![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
 
 ## Public Repos
 
