@@ -10,6 +10,10 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/zooxinirll?label=Followers&style=social)
 
+## Code Size
+
+![Code Size](https://img.shields.io/github/languages/code-size/zooxinirll/BuCaG)
+
 
 ### 💡 About Me
 
