@@ -42,9 +42,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zooxinirll&layout=compact&theme=radical)
 
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zooxinirll&theme=radical)
 
 
 ### 🌐 Connect With Me
