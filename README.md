@@ -29,6 +29,8 @@
 ---
 - **[S0rXD0](https://github.com/zooxinirll/S0rXD0)** - S0rXD0 is a Python-based tool designed for downloading and saving entire websites. It recursively follows links within the same domain, saving each page's content locally in an organized directory structure.
 ---
+- **[wbscanner](https://github.com/zooxinirll/wbscanner)** - WBScanner is a Python-based security scanner designed for assessing various web application vulnerabilities. It aims to identify potential security flaws such as Host Header Injection, CORS misconfiguration, Clickjacking vulnerabilities, HTTP Request Smuggling, and unsafe HTTP methods in web applications. The scanner is designed to be easy to use, with support for scanning individual URLs or reading from an input file containing multiple URLs. It uses a range of techniques to test these vulnerabilities and reports the results with color-coded output for easier interpretation.
+---
 
 ### 📊 GitHub Stats
 
