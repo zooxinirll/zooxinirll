@@ -31,6 +31,9 @@
 ---
 - **[wbscanner](https://github.com/zooxinirll/wbscanner)** - WBScanner is a Python-based security scanner designed for assessing various web application vulnerabilities. It aims to identify potential security flaws such as Host Header Injection, CORS misconfiguration, Clickjacking vulnerabilities, HTTP Request Smuggling, and unsafe HTTP methods in web applications. The scanner is designed to be easy to use, with support for scanning individual URLs or reading from an input file containing multiple URLs. It uses a range of techniques to test these vulnerabilities and reports the results with color-coded output for easier interpretation.
 ---
+- **[Vulnx](https://zooxinirll.github.io/Vulnx/)** - Vulnx is a web-based tool designed to help security researchers and penetration testers identify clickjacking vulnerabilities in websites. It simplifies the process of testing for frame embedding issues by providing an intuitive interface and efficient testing capabilities. Whether you're assessing a single site or conducting a broader security audit, Vulnx streamlines your workflow, making vulnerability discovery fast and effective.
+
+---
 
 ### 📊 GitHub Stats
 
